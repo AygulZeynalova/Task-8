@@ -1,0 +1,61 @@
+Task 1:
+ READ:the number from the user
+ IF number % 2 == 0 THEN
+PRINT: the number is even
+ELSE
+PRINT: the number is odd
+ENDIF
+
+Task 2 :
+READ: the first number from the user
+READ: the second number from the user
+
+IF secondnumber!= 0 OR firstnumber % secondnumber== 0 THEN
+Divide first and second number
+PRINT:The result is the result of the division of the first and second number
+ELSE
+PRINT:Not divided
+ENDIF
+
+Task 3:
+READ:the number from the user
+
+IF the last digit is 7 THEN
+PRINT:The number ends with 7
+ELSE
+PRINT:The number does not end with 7
+ENDIF
+
+Task 4:
+READ:A two-digit number from the user
+IF number >= 10 && number<= 99 THEN
+Find the first and last digit
+ELSE
+PRINT:Please,enter a valid two-digit number
+IF firstDigit == lastDigit THEN
+PRINT:Yes,the digits are the same
+ELSE
+PRINT:No,the digits are not the same
+ENDIF
+ENDIF
+
+Task 5:
+READ:A two-digit number from the user
+  IF number >= 10 && number <= 99 THEN
+     Find the first and last digit of the number
+  ELSE
+PRINT:Enter a valid two-digit number
+   IF first digit % 2 == 0 && last digit % 2 == 0 THEN
+     product = FIRST DIGIT * SECOND DIGIT;
+PRINT:Product
+                 
+  ELSE
+PRINT:Number contains an odd digit.
+End If
+End If
+
+ 
+
+ 
+
+
