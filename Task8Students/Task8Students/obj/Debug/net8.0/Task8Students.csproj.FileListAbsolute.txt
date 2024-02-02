@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\bin\Debug\net8.0\Task8Students.exe
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\bin\Debug\net8.0\Task8Students.deps.json
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\bin\Debug\net8.0\Task8Students.runtimeconfig.json
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\bin\Debug\net8.0\Task8Students.dll
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\bin\Debug\net8.0\Task8Students.pdb
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.sourcelink.json
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.dll
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\refint\Task8Students.dll
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.pdb
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\Task8Students.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Task 8\Task8Students\Task8Students\obj\Debug\net8.0\ref\Task8Students.dll
