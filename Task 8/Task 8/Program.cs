@@ -116,7 +116,7 @@ namespace Task_8
             #endregion
 
 
-        #region Task 5
+            #region Task 5
             Console.Write("Enter a two-digit number: ");
             int number5;
 
@@ -143,31 +143,82 @@ namespace Task_8
             }
             #endregion
 
+            string[] dates = { "14.03.2023", "18.09.2009", "18.02.2002", "18.12.2006" };
+            foreach (string date in dates)
+            {
+                string[] parts = date.Split('.');
+                string month = parts[1];
+                string day = parts[0];
+                string year = parts[2];
+
+                switch (month)
+                {
+                    case "01":
+                        month = "yanvar";
+                        break;
+                    case "02":
+                        month = "fevral";
+                        break;
+                    case "03":
+                        month = "mart";
+                        break;
+                    case "04":
+                        month = "aprel";
+                        break;
+                    case "05":
+                        month = "may";
+                        break;
+                    case "06":
+                        month = "iyun";
+                        break;
+                    case "07":
+                        month = "iyul";
+                        break;
+                    case "08":
+                        month = "avqust";
+                        break;
+                    case "09":
+                        month = "sentyabr";
+                        break;
+                    case "10":
+                        month = "oktyabr";
+                        break;
+                    case "11":
+                        month = "noyabr";
+                        break;
+                    case "12":
+                        month = "dekabr";
+                        break;
+                }
+
+                Console.WriteLine($"{day} {month} {year}-ci il");
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         }
-
-
-       
-       
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 } 
